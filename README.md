@@ -66,4 +66,3 @@ around customer retention, pricing strategy, and international expansion.
 
 ## Files
 - `sql_online_retail_analysis.ipynb` – End-to-end analysis
-- `dataset/online_retail_II.xlsx` – Raw dataset
