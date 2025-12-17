@@ -10,6 +10,7 @@ and lifetime value using a normalized relational data model.
 
 ## Dataset
 **Online Retail II Dataset** (Kaggle)
+https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
 
 - Time period: Dec 2009 – Dec 2011
 - Business type: Online retail selling gift-ware
